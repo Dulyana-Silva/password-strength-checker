@@ -20,7 +20,6 @@ A simple Python script that checks the strength of your password based on:
 - Save password history to a file
 - Add a GUI version
   
-<br>
 > Made with ❤️ by Dulyana
 
 
